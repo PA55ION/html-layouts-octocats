@@ -1,0 +1,100 @@
+body {
+  margin: 0;
+  padding: 0;
+  clear: both;
+}
+
+.octodex {
+  width: 75%;
+  margin: auto;
+  text-align: center;
+  vertical-align: middl
+}
+.octocat {
+  display: inline-block;
+  width: 30%;
+  margin-right: 3%;
+}
+
+.octocat > a img {
+  width: 100%;
+  margin-top:15px;
+  border: 1px solid lightgrey;
+  border-radius: 2px;
+
+}
+
+
+
+.authors img {
+  width: 8%;
+  position: relative;
+  top: 7px;
+  border-radius: 2px;
+}
+
+.authors {
+  display: inline;
+  padding: 0;
+}
+
+.authors li {
+  display: inline;
+}
+.image-footer {
+  display: inline-block;
+  border-bottom: 1px solid lightgrey;
+  padding-bottom: 7px;
+
+
+}
+.image-footer::before {
+  content: "";
+  display: block;
+  height: 0;
+  width: 0;
+  border: 8px solid transparent;
+  border-top-color: lightgray;
+  position: relative;
+  right: -269px;
+  top: -4px;
+
+}
+.image-number {
+  display: inline-block;
+  text-align: left;
+  font-size: .75rem;
+  font-family: Arial;
+  color: lightgrey;
+
+}
+
+.image-number::before {
+  content: "#";
+  color: lightgray;
+}
+
+.image-caption {
+  display: inline-block;
+  text-align: right;
+  color: grey;
+  font-family: Arial;
+  font-size: .75rem;
+  width: 89%;
+
+
+}
+
+a {
+  text-decoration: none;
+  font-family: Arial;
+  font-weight: bold;
+}
+
+a:link {
+  color:black;
+}
+
+a:visited {
+  color:black;
+}
