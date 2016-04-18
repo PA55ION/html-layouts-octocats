@@ -42,7 +42,7 @@ body {
   display: inline;
 }
 .image-footer {
-  display: inline-block;
+  display: block;
   border-bottom: 1px solid lightgrey;
   padding-bottom: 7px;
 
