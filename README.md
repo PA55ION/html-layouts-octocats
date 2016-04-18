@@ -1,12 +1,12 @@
 # Octocats Layout
 A layout built with CSS from a wireframe image and existing HTML
 
-*Week 1, Day 2*
-
 **Future updates to be completed**
 * Responsive design with "Epic Mode"
 
 >This project was created to fulfill an assignment for The Iron Yard Charleston's Front-End Engineering course. The original assignment text is below:
+
+*Week 1, Day 2*
 
 ##HTML Layouts - Octocats
 Let's practice our CSS skills by giving an existing HTML page a custom layout.
