@@ -5,7 +5,9 @@ A layout built with CSS from a wireframe image and existing HTML
 
 *Week 1, Day 2*
 
-**Time to complete: 1 day**
+**Future updates to be completed**
+* Responsive design with "Epic Mode"
+
 
 ##HTML Layouts - Octocats
 Let's practice our CSS skills by giving an existing HTML page a custom layout.
@@ -31,4 +33,5 @@ Let's duplicate an image using a given HTML page, index.html, and an inspiration
 
 ####Epic Mode
 **Challenge #3.1:** Try making your web page responsive when the browser is resized. Here's a hint: consider what CSS rules you know that determine how many items are displayed inline. 
+
 
