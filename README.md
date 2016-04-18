@@ -4,7 +4,11 @@ A layout built with CSS from a wireframe image and existing HTML
 **Future updates to be completed**
 * Responsive design with "Epic Mode"
 
->This project was created to fulfill an assignment for The Iron Yard Charleston's Front-End Engineering course. The original assignment text is below:
+----------------------------------
+
+This project was created to fulfill an assignment for The Iron Yard Charleston's Front-End Engineering course. The original assignment text is below:
+
+----------------------------------
 
 *Week 1, Day 2*
 
