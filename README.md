@@ -2,7 +2,7 @@
 A layout built with CSS from a wireframe image and existing HTML
 
 **Future updates to be completed**
-* Responsive design with "Epic Mode"
+* Incorporate responsive design
 
 ----------------------------------
 
