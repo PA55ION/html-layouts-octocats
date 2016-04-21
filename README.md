@@ -6,11 +6,11 @@ A layout built with CSS from a wireframe image and existing HTML
 
 ----------------------------------
 
-This project was created to fulfill an assignment for The Iron Yard Charleston's Front-End Engineering course. The original assignment text is below:
+This repository was created in order to fulfill an assignment for the Front-End Engineering course at [The Iron Yard](https://www.theironyard.com/locations/charleston.html "The Iron Yard"). The original assignment text is below:
 
 ----------------------------------
 
-*Week 1, Day 2*
+**Week 1, Day 2**
 
 ##HTML Layouts - Octocats
 Let's practice our CSS skills by giving an existing HTML page a custom layout.
